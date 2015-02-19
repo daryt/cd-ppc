@@ -1,0 +1,9 @@
+.header {
+  background-color: grey;
+  min-height: 150px;
+}
+
+.content {
+  background-color: black;
+  min-height: 1000px;
+}
